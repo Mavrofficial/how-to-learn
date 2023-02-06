@@ -1,0 +1,13 @@
+.buy-link{
+  /* border: solid red 1px; */
+  line-height: 42px;
+  font-size: 30px;
+  font-weight: normal;
+  text-decoration: none;
+  color:  #2f80ed;
+  transition: opacity 0.2s;
+}
+
+.buy-link:hover{
+  opacity: 0.6;
+}

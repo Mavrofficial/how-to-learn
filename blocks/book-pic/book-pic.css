@@ -1,0 +1,8 @@
+.book-pic{
+  /* border: solid red 1px; */
+  padding-right: 48px;
+  object-fit: cover;
+  object-position: top;
+  width: 620px;
+  height: 608px;
+}
