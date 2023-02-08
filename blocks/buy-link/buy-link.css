@@ -1,5 +1,6 @@
 .buy-link{
   /* border: solid red 1px; */
+  align-self: flex-start;
   line-height: 42px;
   font-size: 30px;
   font-weight: normal;
